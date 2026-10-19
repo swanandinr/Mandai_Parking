@@ -1,0 +1,20 @@
+{
+  "parking": {
+    "available": 127,
+    "occupied": 146,
+    "slots": {
+      "A1": {
+        "status": "available"
+      },
+      "A2": {
+        "status": "occupied"
+      },
+      "A3": {
+        "status": "available"
+      },
+      "A4": {
+        "status": "occupied"
+      }
+    }
+  }
+}
